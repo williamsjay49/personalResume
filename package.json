@@ -9,9 +9,22 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "react": "^18",
-    "react-dom": "^18",
-    "next": "14.1.4"
+    "@react-three/drei": "9.105.4",
+    "@react-three/fiber": "8.16.2",
+    "@sentry/nextjs": "9",
+    "@types/react-lottie": "1.2.10",
+    "clsx": "^2.1.1",
+    "mini-svg-data-uri": "^1.4.4",
+    "motion": "^12.5.0",
+    "next": "14.1.4",
+    "next-themes": "^0.4.6",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-icons": "^5.5.0",
+    "react-lottie": "1.2.4",
+    "tailwind-merge": "^3.0.2",
+    "tailwindcss-animate": "^1.0.7",
+    "three-globe": "2.31.0"
   },
   "devDependencies": {
     "typescript": "^5",
@@ -23,5 +36,6 @@
     "tailwindcss": "^3.3.0",
     "eslint": "^8",
     "eslint-config-next": "14.1.4"
-  }
+  },
+  "packageManager": "yarn@1.22.22+sha1.ac34549e6aa8e7ead463a7407e1c7390f61a6610"
 }
