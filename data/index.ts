@@ -71,6 +71,14 @@ export const gridItems = [
 export const projects = [
   {
     id: 1,
+    title: "Full Stack Interview Platform with a Real Time AI Voice Agent",
+    des: "Prepwise는 Next.js, Firebase 및 Vapi의 음성 에이전트를 사용하여 AI 기반의 인터랙티브한 학습 경험을 제공하는 취업 면접 준비 플랫폼입니다.",
+    img: "/aiMock.png",
+    iconLists: ["/re.svg", "/ts.svg", "css.svg"],
+    link: "https://github.com/williamsjay49/ai-interview",
+  },
+  {
+    id: 2,
     title: "Minimal Movie Search Website",
     des: "React와 바닐라라 CSS로 구축된 간단한 영화 검색 앱으로, [The Movie Database (TMDb)]를 사용합니다.",
     img: "/rp1.svg",
@@ -78,7 +86,7 @@ export const projects = [
     link: "https://github.com/williamsjay49/movieAppV2",
   },
   {
-    id: 2,
+    id: 3,
     title: "Used Car Pricing REST API",
     des: "자동차 가격 예측을 제공하고, 사용자가 판매 가격을 보고하며, 관리자가 해당 보고서를 검토하는 REST API를 만들었습니다.",
     img: "/rp2.svg",
@@ -86,7 +94,7 @@ export const projects = [
     link: "https://github.com/williamsjay49/usedCarPricingApi",
   },
   {
-    id: 3,
+    id: 4,
     title: "TODO REST API /w Spring Boot",
     des: "Spring Boot와 Spring Security를 사용하여 백엔드로 구축된 REST API",
     img: "/rp3.svg",

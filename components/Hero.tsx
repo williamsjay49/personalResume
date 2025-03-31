@@ -54,7 +54,7 @@ const Hero = () => {
            *  change md:text-6xl, add more responsive code
            */}
           <TextGenerateEffect
-            words="한계를 두지 않고 프론트엔드부터 백엔드까지 프로젝트를 구축하는 자가 학습 개발자"
+            words="한계를 두지 않고 프론트엔드부터 백엔드까지 프로젝트를 구축하는 자기기 학습 개발자"
             className="font-serif font-extrabold text-center text-[40px] md:text-5xl lg:text-6xl"
           />
 
